@@ -996,7 +996,7 @@ fn get_api_server_(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "http://oltwhxz.dynv6.net:21114".to_owned()
+    "API自定义".to_owned()
 }
 
 #[inline]
